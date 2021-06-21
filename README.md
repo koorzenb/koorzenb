@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Barend Koorzen
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning Node Developer Course @ https://www.udemy.com/course/the-complete-nodejs-developer-course-2
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: koorzenb@gmail.com
