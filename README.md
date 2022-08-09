@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Barend Koorzen
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React Developer Course 
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: koorzenb@gmail.com
