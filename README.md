@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Barend Koorzen
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning schema technologies
+- 🌱 I’m currently Flutter and Dart
 - 📫 How to reach me: koorzenb@gmail.com
