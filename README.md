@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Barend Koorzen
-- 👀 I’m interested in Front-End and Mobile Development
-- 🌱 I’m currently improving on Flutter
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently improving on Laravel
 - 📫 How to reach me: koorzenb@gmail.com
