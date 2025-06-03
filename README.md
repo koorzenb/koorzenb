@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Barend Koorzen
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently improving on Laravel
+- 🌱 I’m currently improving on Python
 - 📫 How to reach me: koorzenb@gmail.com
