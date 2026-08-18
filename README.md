@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ren Koorzen
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently improving on Python
+- 🌱 I’m currently creating an app to help with fire safety awareness
 - 📫 How to reach me: koorzenb@gmail.com
