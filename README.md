@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Barend Koorzen
+- 👋 Hi, I’m Ren Koorzen
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently improving on Python
 - 📫 How to reach me: koorzenb@gmail.com
